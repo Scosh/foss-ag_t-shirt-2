@@ -17,7 +17,7 @@
    inkscape:export-filename="/home/josef/Projekte/foss-ag-shirts/foss-ag_t-shirt-2/export/davebloggt.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,19 +27,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2048"
-     inkscape:window-height="1119"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
      id="namedview83"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
      inkscape:snap-object-midpoints="true"
      inkscape:pagecheckerboard="true"
-     inkscape:zoom="0.45285052"
-     inkscape:cx="-967.50697"
-     inkscape:cy="853.36755"
+     inkscape:zoom="0.22642526"
+     inkscape:cx="615.98583"
+     inkscape:cy="606.58677"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
      showguides="true"
@@ -60,7 +60,7 @@
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="155.41368,360.00001"
+       position="155.41368,360"
        orientation="0,1"
        id="guide1136"
        inkscape:locked="false"
@@ -150,7 +150,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
